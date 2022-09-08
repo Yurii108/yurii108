@@ -2,7 +2,8 @@
   Hi! <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
 </h1>
 
-About half a year I study front-end developer and want to continue. Now I look for my first job or training. I ready always to study for solve different tasks.
+My name is Yuriy, 27 years old. About half a year I study front-end developer and want to continue. <br />.
+Now I look for my first job or training. I ready always to study for solve different tasks.
 
 
 ## 💼 latest projects
