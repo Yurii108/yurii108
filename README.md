@@ -2,19 +2,66 @@
   Hi! <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
 </h1>
 
-My name is Yuriy, 27 years old. About half a year I study front-end developer and want to continue. <br />
+My name is Yuriy, 27 years old. About half a year I learn front-end and want to continue. 
+<br />
 Now I look for my first job or training. I ready always to study for solve different tasks.
+<br />
 
 
 ## 💼 latest projects
 
-React: [Shop coffee house](https://github.com/Yurii108/react-coffee-shop), 
-[Employees](https://github.com/Yurii108/react-employees)
 
-JS: [Dishes](https://github.com/Yurii108/js-food-dish)
-
-Web - (html, css): [Portfolio](https://github.com/Yurii108/pf),
- [Uber](https://github.com/Yurii108/uber-web-project-use-bootstrap)
+ <div>
+    <h3>React -
+        <a href="https://yurii108.github.io/react-coffee-shop/">Shop coffee house</a>,
+        <a href="https://github.com/Yurii108/react-coffee-shop">GIT</a>
+    </h3>
+</div>
+<div>
+    - This project has functionality like previous "List Employees", I did it for consolidate my knowledge
+</div>
+<hr>
+<div>
+    <h3> React -
+        <a href="https://yurii108.github.io/react-employees/">List Employees</a>,
+        <a href="https://github.com/Yurii108/react-employees">GIT</a>
+    </h3>
+</div>
+<div>
+    - Functional and class components, state, props, data, mathods: filter, map, reduce <br />
+    - Addition and delete employees, filter, search, marks
+</div>
+<hr>
+<div>
+    <h3>JavaScript -
+        <a href="https://yurii108.github.io/js-food-dish/">Dishes</a>,
+        <a href="https://github.com/Yurii108/js-food-dish">GIT</a>
+    </h3>
+</div>
+<div>
+    - request(get, post), tabs, modal(form), timer, webpack, sliders, calculator caloriess, local storage, constructor
+</div>
+<hr>
+<div>
+    <h3>Web (html, css) -
+        <a href="https://yurii108.github.io/pf/dist/">Portfolio</a>,
+        <a href="https://github.com/Yurii108/pf">GIT</a>
+    </h3>
+</div>
+<div>
+    - adaptation for different gadget(media), menu burger, grid, gulp, scss
+</div>
+<hr>
+<div>
+    <h3>Web (html, css) -
+        <a href="https://yurii108.github.io/uber-web-project-use-bootstrap/dist/">Uber</a>,
+        <a href="https://github.com/Yurii108/uber-web-project-use-bootstrap">GIT</a>
+    </h3>
+</div>
+<div>
+    - media, gulp, sass, flex, position, bootstrap, figma
+</div>
+<br/>          
 
 <h2>
   🔧 Technologies & Tools
