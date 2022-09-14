@@ -1,3 +1,10 @@
+<style>
+    .disc {
+    font-size: 11px;
+    }
+</style>
+
+
 <h1 align="center"> 
   Hi! <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
 </h1>
@@ -10,58 +17,70 @@ Now I look for my first job or training. I ready always to study for solve diffe
 
 ## 💼 latest projects
 
-
- <div>
+<ul>
+<li>
+<div>
     <h3>React -
         <a href="https://yurii108.github.io/react-coffee-shop/">Shop coffee house</a>,
         <a href="https://github.com/Yurii108/react-coffee-shop">GIT</a>
     </h3>
 </div>
-<div>
+<div class='disc'>
     - This project has functionality like previous "List Employees", I did it for consolidate my knowledge
 </div>
-<hr>
+</li>
+ 
+<li>
 <div>
     <h3> React -
         <a href="https://yurii108.github.io/react-employees/">List Employees</a>,
         <a href="https://github.com/Yurii108/react-employees">GIT</a>
     </h3>
 </div>
-<div>
+<div class='disc'>
     - Functional and class components, state, props, data, mathods: filter, map, reduce <br />
     - Addition and delete employees, filter, search, marks
 </div>
-<hr>
+</li>
+
+<li>
 <div>
     <h3>JavaScript -
         <a href="https://yurii108.github.io/js-food-dish/">Dishes</a>,
         <a href="https://github.com/Yurii108/js-food-dish">GIT</a>
     </h3>
 </div>
-<div>
+<div class='disc'>
     - request(get, post), tabs, modal(form), timer, webpack, sliders, calculator caloriess, local storage, constructor
 </div>
-<hr>
+</li>
+
+<li>
 <div>
     <h3>Web (html, css) -
         <a href="https://yurii108.github.io/pf/dist/">Portfolio</a>,
         <a href="https://github.com/Yurii108/pf">GIT</a>
     </h3>
 </div>
-<div>
+<div class='disc'>
     - adaptation for different gadget(media), menu burger, grid, gulp, scss
 </div>
-<hr>
+</li>
+
+<li>
 <div>
     <h3>Web (html, css) -
         <a href="https://yurii108.github.io/uber-web-project-use-bootstrap/dist/">Uber</a>,
         <a href="https://github.com/Yurii108/uber-web-project-use-bootstrap">GIT</a>
     </h3>
 </div>
-<div>
+<div class='disc'>
     - media, gulp, sass, flex, position, bootstrap, figma
 </div>
-<br/>          
+</li>
+
+</ul>
+          
 
 <h2>
   🔧 Technologies & Tools
@@ -90,6 +109,7 @@ Now I look for my first job or training. I ready always to study for solve diffe
 <a href="https://www.linkedin.com/in/paraska108" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://t.me/YuriiPP" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></a>
 </p>
+
 
 
 
