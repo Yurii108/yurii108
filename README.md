@@ -44,7 +44,7 @@ Now I look for my first job or training. I ready always to study for solve diffe
         <a href="https://github.com/Yurii108/js-food-dish">GIT</a>
     </h3>
 </div>
-<div style="font-size: 11px; line-height: 10px;">
+<div style="font-size: 11px; line-height: 0px;">
     - request(get, post), tabs, modal(form), timer, webpack, sliders, calculator caloriess, local storage, constructor
 </div>
 </li>
@@ -56,7 +56,7 @@ Now I look for my first job or training. I ready always to study for solve diffe
         <a href="https://github.com/Yurii108/pf">GIT</a>
     </h3>
 </div>
-<div style="font-size: 11px; line-height: 10px;">
+<div style="font-size: 11px; line-height: 0px;">
     - adaptation for different gadget(media), menu burger, grid, gulp, scss
 </div>
 </li>
