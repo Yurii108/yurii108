@@ -1,10 +1,3 @@
-<style>
-    .disc {
-    font-size: 11px;
-    line-height: 0px;
-    }
-</style>
-
 
 <h1 align="center"> 
   Hi! <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
@@ -26,7 +19,7 @@ Now I look for my first job or training. I ready always to study for solve diffe
         <a href="https://github.com/Yurii108/react-coffee-shop">GIT</a>
     </h3>
 </div>
-<div class='disc'>
+<div style="font-size: 11px; line-height: 10px;">
     - This project has functionality like previous "List Employees", I did it for consolidate my knowledge
 </div>
 </li>
@@ -38,7 +31,7 @@ Now I look for my first job or training. I ready always to study for solve diffe
         <a href="https://github.com/Yurii108/react-employees">GIT</a>
     </h3>
 </div>
-<div class='disc'>
+<div style="font-size: 11px; line-height: 10px;">
     - Functional and class components, state, props, data, mathods: filter, map, reduce <br />
     - Addition and delete employees, filter, search, marks
 </div>
@@ -51,7 +44,7 @@ Now I look for my first job or training. I ready always to study for solve diffe
         <a href="https://github.com/Yurii108/js-food-dish">GIT</a>
     </h3>
 </div>
-<div class='disc'>
+<div style="font-size: 11px; line-height: 10px;">
     - request(get, post), tabs, modal(form), timer, webpack, sliders, calculator caloriess, local storage, constructor
 </div>
 </li>
@@ -63,7 +56,7 @@ Now I look for my first job or training. I ready always to study for solve diffe
         <a href="https://github.com/Yurii108/pf">GIT</a>
     </h3>
 </div>
-<div class='disc'>
+<div style="font-size: 11px; line-height: 10px;">
     - adaptation for different gadget(media), menu burger, grid, gulp, scss
 </div>
 </li>
@@ -75,7 +68,7 @@ Now I look for my first job or training. I ready always to study for solve diffe
         <a href="https://github.com/Yurii108/uber-web-project-use-bootstrap">GIT</a>
     </h3>
 </div>
-<div class='disc'>
+<div style="font-size: 11px; line-height: 10px;">
     - media, gulp, sass, flex, position, bootstrap, figma
 </div>
 </li>
