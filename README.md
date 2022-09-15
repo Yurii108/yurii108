@@ -1,6 +1,7 @@
 <style>
     .disc {
     font-size: 11px;
+    line-height: 0px;
     }
 </style>
 
