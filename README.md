@@ -40,14 +40,8 @@ If you are interested in more details and a list my projects, you can see [my re
 <br/>
 <br/>
 
-📊GitHub Stats:
-
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurii108&langs_count=8&layout=compact" />
-
-<br/>
-<br/>
-
 ✉️ Contacts
+
 <p align="center">
    <a href="mailto:paraska108@gmail.com"><img
          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
@@ -58,6 +52,18 @@ If you are interested in more details and a list my projects, you can see [my re
          src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
          alt="telegram"></a>
 </p>
+
+<br/>
+<br/>
+
+📊 GitHub Stats:
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurii108&langs_count=8&layout=compact" />
+
+<br/>
+<br/>
+
+
 
 
 <!--
