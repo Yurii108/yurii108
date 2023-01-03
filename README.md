@@ -1,88 +1,14 @@
-<h1 align="center">
-   Hi, I'm Yuriy <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
-</h1>
-
-7 months ago, I was introduced to a front-end, and since that time, I have been learning and
-developing my skills in HTML, CSS, React and Java Script
-
-
-
-## 💼 latest projects
-<!-- style="font-size: 11px; line-height: 0px;" -->
-<!-- dsd?? -->
-<ul>
-   <li>
-      <div>
-         <h3>React -
-            <a href="https://marvel-s.herokuapp.com/">Marvel portal</a>,
-            <a href="https://github.com/Yurii108/react-marvel">GIT</a>
-         </h3>
-      </div>
-      <div>
-         Technologies: hooks (useEffect, useState, useRef, useMemo), own hooks, life cycles, FSM, HOC, API requests.
-         <br />
-         Libs: Formik, Yup, Router v5-6
-      </div>
-   </li>
-
-   <li>
-      <div>
-         <h3> React -
-            <a href="https://yurii108.github.io/react-employees/">List Employees</a>,
-            <a href="https://github.com/Yurii108/react-employees">GIT</a> &
-            <a href="https://yurii108.github.io/react-coffee-shop/">Shop coffee house</a>,
-            <a href="https://github.com/Yurii108/react-coffee-shop">GIT</a>
-         </h3>
-      </div>
-      <div>
-         Two apps are similar each other. They work with list any data. <br />
-         Base of React: JSX, props, state, functional and class-components, elements, methods (filter, map,
-         reduce)
-      </div>
-   </li>
-
-   <li>
-      <div>
-         <h3>JavaScript -
-            <a href="https://yurii108.github.io/js-food-dish/">Dishes</a>,
-            <a href="https://github.com/Yurii108/js-food-dish">GIT</a>
-         </h3>
-      </div>
-      <div>
-         Tasks: tabs, modal(form), timer, sliders, calculator calories <br />
-         Technologies: webpack, OOP, ES6, ES8, DOM, JSON, requests (get, post), local storage
-      </div>
-   </li>
-
-   <li>
-      <div>
-         <h3>Web (html, css) -
-            <a href="https://yurii108.github.io/pf/dist/">Portfolio</a>,
-            <a href="https://github.com/Yurii108/pf">GIT</a>
-         </h3>
-      </div>
-      <div>
-         Technologies: grid, gulp, bootstrap, figma, media, scss, flex
-      </div>
-   </li>
-
-   <li>
-      <div>
-         <h3>Web (html, css) -
-            <a href="https://yurii108.github.io/uber-web-project-use-bootstrap/dist/">Uber</a>,
-            <a href="https://github.com/Yurii108/uber-web-project-use-bootstrap">GIT</a>
-         </h3>
-      </div>
-      <div>
-         Technologies: gulp, bootstrap, figma, media, sass, flex, position
-      </div>
-   </li>
-</ul>
-
-
-<h2>
-   🔧 Technologies & Tools
+<h2 align="center">
+   Hi there <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
 </h2>
+
+Thank you for your review of my GitHub!
+If you are interested in more details and a list my projects, you can see [my resume (CV).](https://drive.google.com/file/d/1W_A1-Vb2RX-onAl-GP7DMZCX_BsyRzu8/view)
+
+<br/>
+<br/>
+
+🛠️ Languages and Tools :
 
 <p align="center" <a href="https://www.w3.org/html/" target="_blank"><img
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
@@ -94,6 +20,7 @@ developing my skills in HTML, CSS, React and Java Script
    <a href="https://reactjs.org" target="_blank"><img
          src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
          alt="react"></a>
+   <a href="https://redux.js.org" target="_blank"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"></a>
    <br />
    <a href="https://sass-lang.com" target="_blank"><img
          src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"></a>
@@ -107,13 +34,20 @@ developing my skills in HTML, CSS, React and Java Script
    <a href="https://webpack.js.org" target="_blank"><img
          src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"
          alt="webpack"></a>
+   <a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"></a>
 </p>
 
+<br/>
+<br/>
 
-<h2>
-   ✉️ Contacts
-</h2>
+📊GitHub Stats:
 
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurii108&langs_count=8&layout=compact" />
+
+<br/>
+<br/>
+
+✉️ Contacts
 <p align="center">
    <a href="mailto:paraska108@gmail.com"><img
          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
@@ -124,8 +58,6 @@ developing my skills in HTML, CSS, React and Java Script
          src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
          alt="telegram"></a>
 </p>
-
-
 
 
 <!--
