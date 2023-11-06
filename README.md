@@ -1,8 +1,8 @@
 <h2 align="center">
-   Hi there <img src="https://i.imgur.com/u8HivgI.gif" width="30" /> 👋
+   Hi there 👋
 </h2>
 
-Thank you for your reviewing my GitHub!
+Thank you for your reviewing my GitHub! <br/>
 If you are interested in more details, you can see my resume (CV). <br/>
 => [https://drive.google.com/file/d/1W_A1-Vb2RX-onAl-GP7DMZCX_BsyRzu8/view](https://drive.google.com/file/d/1W_A1-Vb2RX-onAl-GP7DMZCX_BsyRzu8/view) 
 
