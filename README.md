@@ -1,9 +1,8 @@
 ### Hi, I'm Yuriy 👋
-
-React Developer with 2 years. Proficient in React, with experience using Next.js framework, having developed 3 complete projects on it. Open to learning new technologies such as React Native and Node.js. Responsible, communicative, and committed to a healthy lifestyle.
-
-If you are interested in more details, you can see my resume (CV). <br/>
-:paperclip: [My Resume/CV on Google drive](https://drive.google.com/file/d/1W_A1-Vb2RX-onAl-GP7DMZCX_BsyRzu8/view) 
+• Front-end developer • React • Next.js • TypeScript •
+<br/>
+<br/>
+👉 [Portfolio](https://yurii-webdev.netlify.app/) 
 
 📫 How to reach me:
 
