@@ -7,7 +7,7 @@
 📫 How to reach me:
 
 [![Telegram](https://img.shields.io/badge/Yurii_Paraska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/yurii_paraska)
-[![Linkedin Badge](https://img.shields.io/badge/-Yurii_Paraska-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paraska108/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Yurii_Paraska-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurii-paraska) 
 [![Gmail](https://img.shields.io/badge/-Gmail:_Yurii_Paraska-D14836?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yurii.paraska@gmail.com)
 
 
