@@ -1,5 +1,5 @@
 ### Hi, I'm Yuriy 👋
-• Front-end developer • React • Next.js • TypeScript •
+• Full stack developer • React • Next.js • TypeScript • Node.js
 <br/>
 <br/>
 👉 [Portfolio](https://yurii-webdev.netlify.app/) 
